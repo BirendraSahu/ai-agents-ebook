@@ -28,20 +28,22 @@ ai-agents-ebook/
 │   ├── requirements.txt
 │   └── README.md
 │
-├── 03-context-engineering/
-│   ├── context_engineering_demo.py         ← Chapter 7
-│   ├── requirements.txt
-│   └── README.md
-│
-├── 04-memory-architectures/
+├── 03-memory-architectures/
 │   ├── memory_architectures_demo.py        ← Chapter 5
 │   ├── requirements.txt
 │   └── README.md
 │
-└── 05-knowledge-graph/
-    ├── knowledge_graph_demo.py             ← Chapter 6
-    ├── requirements.txt
-    └── README.md
+└── 04-knowledge-graph/
+│   ├── knowledge_graph_demo.py             ← Chapter 6
+│   ├── requirements.txt
+│   └── README.md
+│
+├── 05-context-engineering/
+│   ├── context_engineering_demo.py         ← Chapter 7
+│   ├── requirements.txt
+│   └── README.md
+│
+
 ```
 
 ---
@@ -52,9 +54,9 @@ ai-agents-ebook/
 |--------|----------|---------|----------------|
 | `01-prompt-engineering` | Prompt Engineering | Ch 2 | Bad→Good prompt ladder, 4 real finance scenarios, data grounding vs hallucination |
 | `02-rag` | RAG Application | Ch 4 | Chunking, LanceDB vector search, Naive/Agentic/CRAG/HyDE patterns, evaluation |
-| `03-context-engineering` | Context Engineering | Ch 7 | Token budget assembly, memory pruning, re-ranking, context poisoning |
-| `04-memory-architectures` | Memory Architectures | Ch 5 | Episodic, semantic, procedural memory, decay scoring, Mem0 integration |
-| `05-knowledge-graph` | Knowledge Graphs | Ch 6 | Triples, ontology, multi-hop reasoning, GraphRAG, SPARQL queries |
+| `03-memory-architectures` | Memory Architectures | Ch 5 | Episodic, semantic, procedural memory, decay scoring, Mem0 integration |
+| `04-knowledge-graph` | Knowledge Graphs | Ch 6 | Triples, ontology, multi-hop reasoning, GraphRAG, SPARQL queries |
+| `05-context-engineering` | Context Engineering | Ch 7 | Token budget assembly, memory pruning, re-ranking, context poisoning |
 
 ---
 
@@ -108,14 +110,16 @@ streamlit run 01-prompt-engineering/prompt_engineering_demo.py
 # RAG — Chapter 4
 streamlit run 02-rag/rag_demo_app.py
 
-# Context Engineering — Chapter 7
-streamlit run 03-context-engineering/context_engineering_demo.py
-
 # Memory Architectures — Chapter 5
-streamlit run 04-memory-architectures/memory_architectures_demo.py
+streamlit run 03-memory-architectures/memory_architectures_demo.py
 
 # Knowledge Graphs — Chapter 6
-streamlit run 05-knowledge-graph/knowledge_graph_demo.py
+streamlit run 04-knowledge-graph/knowledge_graph_demo.py
+
+# Context Engineering — Chapter 7
+streamlit run 05-context-engineering/context_engineering_demo.py
+
+
 ```
 
 ---

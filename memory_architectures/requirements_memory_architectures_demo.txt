@@ -1,0 +1,5 @@
+streamlit
+openai
+numpy
+pandas
+mem0ai

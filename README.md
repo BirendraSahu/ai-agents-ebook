@@ -164,7 +164,12 @@ plotly>=5.18.0
 - MCP and multi-agent orchestration
 - Real production failure stories with root causes and exact fixes
 
-<img width="531" height="745" alt="Screenshot 2026-03-31 at 9 25 03 AM" src="https://github.com/user-attachments/assets/30877ec0-f61e-47b7-9706-6ba71beaca78" />
+<img width="531" height="745" alt="Screenshot 2026-03-31 at 9 25 03 AM" src="https://github.com/user-attachments/assets/c6d93d1e-4d71-4a1d-8649-d8b0b3eb8f05" />
+<img width="520" height="734" alt="Screenshot 2026-03-31 at 9 26 27 AM" src="https://github.com/user-attachments/assets/9042f4fd-be8b-49fb-b1db-729bcecec64e" />
+<img width="515" height="717" alt="Screenshot 2026-03-31 at 9 26 45 AM" src="https://github.com/user-attachments/assets/51099921-7a60-40ac-8f6c-c8dd6d318582" />
+<img width="524" height="738" alt="Screenshot 2026-03-31 at 9 27 11 AM" src="https://github.com/user-attachments/assets/baad31d4-c04d-4b32-9dff-539e690d1023" />
+<img width="527" height="743" alt="Screenshot 2026-03-31 at 9 27 34 AM" src="https://github.com/user-attachments/assets/1e4a7270-3baf-489c-9949-bfa6ec93ea18" />
+
 
 
 ---

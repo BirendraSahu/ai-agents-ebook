@@ -1,5 +1,8 @@
-# Agentic AI Systems: From Prompts to Production
-> **Companion code repository** — *Birendra Kumar Sahu*
+# :rocket: Agentic AI Systems: From Prompts to Production
+
+Most AI systems don’t fail at the demo.  They fail in production.
+
+This repository contains **working implementations of production-style Agentic AI systems**—focused on how real systems are designed, not just how prompts are written.
 
 ## About
 
@@ -52,11 +55,11 @@ ai-agents-ebook/
 
 | Folder | Demo App | Chapter | What You Learn |
 |--------|----------|---------|----------------|
-| `01-prompt-engineering` | Prompt Engineering | Ch 2 | Bad→Good prompt ladder, 4 real finance scenarios, data grounding vs hallucination |
-| `02-rag_application` | RAG Application | Ch 4 | Chunking, LanceDB vector search, Naive/Agentic/CRAG/HyDE patterns, evaluation |
-| `03-memory_architectures` | Memory Architectures | Ch 5 | Episodic, semantic, procedural memory, decay scoring, Mem0 integration |
-| `04-knowledge_graph` | Knowledge Graphs | Ch 6 | Triples, ontology, multi-hop reasoning, GraphRAG, SPARQL queries |
-| `05-context_engineering` | Context Engineering | Ch 7 | Token budget assembly, memory pruning, re-ranking, context poisoning |
+| `prompt-engineering` | Prompt Engineering | Ch 2 | Bad→Good prompt ladder, 4 real finance scenarios, data grounding vs hallucination |
+| `rag_application` | RAG Application | Ch 4 | Chunking, LanceDB vector search, Naive/Agentic/CRAG/HyDE patterns, evaluation |
+| `memory_architectures` | Memory Architectures | Ch 5 | Episodic, semantic, procedural memory, decay scoring, Mem0 integration |
+| `knowledge_graph` | Knowledge Graphs | Ch 6 | Triples, ontology, multi-hop reasoning, GraphRAG, SPARQL queries |
+| `context_engineering` | Context Engineering | Ch 7 | Token budget assembly, memory pruning, re-ranking, context poisoning |
 
 ---
 
@@ -160,6 +163,9 @@ plotly>=5.18.0
 - Reasoning patterns: ReAct, Plan-Execute-Reflect, Tree-of-Thoughts
 - MCP and multi-agent orchestration
 - Real production failure stories with root causes and exact fixes
+
+<img width="531" height="745" alt="Screenshot 2026-03-31 at 9 25 03 AM" src="https://github.com/user-attachments/assets/30877ec0-f61e-47b7-9706-6ba71beaca78" />
+
 
 ---
 

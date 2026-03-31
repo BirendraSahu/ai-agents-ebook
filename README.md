@@ -167,10 +167,7 @@ plotly>=5.18.0
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c6d93d1e-4d71-4a1d-8649-d8b0b3eb8f05" width="30%" />
   <img src="https://github.com/user-attachments/assets/9042f4fd-be8b-49fb-b1db-729bcecec64e" width="30%" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1e4a7270-3baf-489c-9949-bfa6ec93ea18" width="30%" />
+    <img src="https://github.com/user-attachments/assets/1e4a7270-3baf-489c-9949-bfa6ec93ea18" width="30%" />
 </p>
 
 ---

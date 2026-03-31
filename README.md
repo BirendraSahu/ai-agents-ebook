@@ -175,6 +175,8 @@ plotly>=5.18.0
   <img src="https://github.com/user-attachments/assets/1e4a7270-3baf-489c-9949-bfa6ec93ea18" width="30%" />
 </p>
 
+## 📘 Get the Book
+[Agentic AI Systems: From Prompts to Production](https://sahubirendra.gumroad.com/l/agentic-ai-systems)
 ---
 
 ## About the Author

@@ -151,6 +151,11 @@ plotly>=5.18.0
 
 **Agentic AI Systems: From Prompts to Production** is a practitioner's guide to building production-grade agentic AI — systems that work reliably under load with real data, not toy demos.
 
+<p align="center">
+  <img width="1061" height="704" alt="Screenshot 2026-03-31 at 9 54 16 AM" src="https://github.com/user-attachments/assets/c3050672-a297-401b-98ad-06b973c9ff9a" />
+</p>
+
+
 **What the book covers:**
 
 - How LLMs work: training pipeline, tokens, embeddings, hallucination
@@ -167,7 +172,7 @@ plotly>=5.18.0
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c6d93d1e-4d71-4a1d-8649-d8b0b3eb8f05" width="30%" />
   <img src="https://github.com/user-attachments/assets/9042f4fd-be8b-49fb-b1db-729bcecec64e" width="30%" />
-    <img src="https://github.com/user-attachments/assets/1e4a7270-3baf-489c-9949-bfa6ec93ea18" width="30%" />
+  <img src="https://github.com/user-attachments/assets/1e4a7270-3baf-489c-9949-bfa6ec93ea18" width="30%" />
 </p>
 
 ---

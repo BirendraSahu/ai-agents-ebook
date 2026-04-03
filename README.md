@@ -1,6 +1,6 @@
 # :rocket: Agentic AI Systems: From Prompts to Production
 
-Most AI systems don’t fail at the demo.  They fail in production.
+Most AI systems don’t fail at the demo.  They fail in production. https://sahubirendra.gumroad.com/l/agentic-ai-systems
 
 This repository contains **working implementations of production-style Agentic AI systems**—focused on how real systems are designed, not just how prompts are written.
 
